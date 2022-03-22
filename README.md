@@ -1,1 +1,1 @@
-# AI_Spark_Challenge_IRDIS
+# AISpark_Challenge_IRDIS
