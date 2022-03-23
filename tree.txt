@@ -1,0 +1,30 @@
+.
+└── Data
+    ├── AIHub
+    │   ├── Training
+    │   │   ├── train_buildings_data
+    │   │   ├── train_buildings_labeling
+    │   │   ├── train_roads_data
+    │   │   └── train_roads_labeling
+    │   └── Validation
+    │       ├── vaildate_buildings_data
+    │       ├── vaildate_buildings_labeling
+    │       ├── vaildate_roads_data
+    │       └── vaildate_roads_labeling
+    └── xView2
+        ├── xview2_damage_train_data
+        │   ├── labels
+        │   └── output
+        └── xview2_geotiffs
+            ├── hold
+            │   ├── images
+            │   └── labels
+            ├── test
+            │   ├── images
+            │   └── labels
+            ├── tier1
+            │   ├── images
+            │   └── labels
+            └── tier3
+                ├── images
+                └── labels
