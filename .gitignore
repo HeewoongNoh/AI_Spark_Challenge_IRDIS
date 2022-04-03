@@ -11,3 +11,7 @@
 *.txt
 *.yaml
 /.idea
+/Prior Research
+.pth
+/.vscode
+/.ipynb_checkpoints
