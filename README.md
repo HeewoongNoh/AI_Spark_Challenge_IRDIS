@@ -3,7 +3,7 @@
 
 ##### IRDIS is a collaborative effort for the 3rd AI Spark Challenge, hosted by the Ministry of Science and ICT of South Korea. It was developed between 22/3/22~22/4/8 by team Peachtree from Korea University.
 
-***
+##### Requirements can be found in the .yml file.
 
 ### Developers🧑‍💻
 **Thomas Lee🐱**
